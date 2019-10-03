@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 The Nala_LoginShare module lets users access Kayako Help Desk by using a Magento username and password
